@@ -1,6 +1,8 @@
 # Front-end
 
 El proyecto se desarrolla en distintas fases. 
+
+
 a- En primer lugar se construye el template como reto utilizando de manera unica 'styled components'
 
 b- A continuacion se preparan los containers para la lista de productos y de distribuye segun lo indicado
